@@ -7,7 +7,7 @@ Steven Shao, 27/01/2023
 * [Lab 1 Exercise 1](#lab1e1)
 * [Lab 1 Exercise 2](#lab1e2)
 * [Lab 1 Exercise 3](#lab1e3)
-* [Lab 2 Exercise 1](#lab2e1)
+* [Lab 2 Exercise 1（Rectifier）](#lab2e1)
 * [Lab 2 Exercise 2](#lab2e2)
 * [Lab 2 Exercise 3](#lab2e3)
 * [Lab 2 Exercise 4](#lab2e4)
